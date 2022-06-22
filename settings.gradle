@@ -1,0 +1,2 @@
+rootProject.name='LayoutPerformance'
+include ':app'
